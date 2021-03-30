@@ -9,11 +9,11 @@ main.lua. If you do this, install a Lua interpreter plug-in of your choosing to 
 or the IDE you are using.
 
 ## Description of operating system:
-This program is made to run on Windows. My operating system in Windows 64. If you were to 
+This program can run on Windows or Mac. If you were to 
 run this program on another operating system, line 9 of main.cpp: 
 const string lua = "lua";
 would need to be set equal to whatever word recognizes a Lua file on your operating
-system.
+system. After testin on my Mac and Windows, this seems to be the same
 
 ## Presenter Notes
 - Lua is a lightweight scripting language built on top of C. It is dynamically typed, 

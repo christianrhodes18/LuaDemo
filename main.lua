@@ -26,4 +26,4 @@ print(#arg .. '\n') -- prints # of CL args
 
 -- demonstrartion to take the command line argument at index 1 and print using lua.main
 cString = arg[1]
-print("Your string from main.cpp is ")-- .. cString)
+print("Your string from main.cpp is " .. cString)
