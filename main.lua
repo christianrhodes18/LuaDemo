@@ -6,5 +6,5 @@
 -- To change this template use File | Settings | File Templates.
 --
 
-print("Hello World")
-
+cString = arg[1]
+print(cString)
