@@ -1,4 +1,4 @@
-# CLI-crhodes2
+# Lua Demo
 
 ## How to run from the command line:
 - make sure your lua executable is saved as a system environment path
